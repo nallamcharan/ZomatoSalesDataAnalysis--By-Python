@@ -47,3 +47,5 @@ To perform exploratory data analysis on Zomato sales data and extract meaningful
 - Found most loyal customer city.
 - Analyzed impact of rating on sales.
 - Evaluated restaurant performance.
+
+https://www.linkedin.com/posts/nallam-charan-kumar-a36835311_datascientist-dataanalysis-machinelearing-activity-7428861435125891072-zo2H?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE9SyooBwO7QZajxKSjiOnTiZv9lSo7m3Zw
